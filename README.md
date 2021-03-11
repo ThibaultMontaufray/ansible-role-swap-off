@@ -1,5 +1,5 @@
-RANCHER CLI
-===========
+SWAP OFF
+========
 
 This roles disable the swap
 
